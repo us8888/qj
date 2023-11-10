@@ -327,7 +327,7 @@
       "searchable":1,
       "quickSearch":0,
       "filterable":1,
-      "ext":"./bili.json"
+      "ext":"./bili.josn"
     },
     {
       "key":"push_agent",
