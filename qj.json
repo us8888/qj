@@ -289,17 +289,6 @@
       "filterable":1
     },
     {
-      "key":"360_spider",
-      "name":"360┃解析",
-      "api":"csp_SP360",
-      "type":3,
-      "filterable":1,
-      "quickSearch":1,
-      "searchable":1,
-      "playerType":2,
-      "ext":""
-    },
-    {
       "key":"ZXZJ",
       "name":"在线┃直连",
       "api":"csp_Zxzj",
