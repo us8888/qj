@@ -326,7 +326,7 @@
       "ext":{
       "json":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json",
       "type": "帕梅拉#太极拳#广场舞#演唱会",
-      "cookie":"SESSDATA=4cfad634%2C1710051633%2Cd93b4%2A91;bili_jct=d7c8724437c384efff425c0664f059c9;DedeUserID=1994741908;DedeUserID__ckMd5=5ba69577efda1c"}
+      "cookie":"http://127.0.0.1:9978/file/tvfan/cookie.txt"}
     },
     {
       "key":"push_agent",
