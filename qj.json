@@ -95,14 +95,6 @@
       }
     },
     {
-      "key":"极光",
-      "name":"极光┃App",
-      "type":3,
-      "api":"csp_Skapp",
-      "playerType":2,
-      "ext":"WA7zWO4h1O3BCfjhh144pHQd5cLx+88eKSkKzbvHVUg5XDKtGQUohbbRncikOu0w3F+STmS5r0IZuQ3uMIQNXNEeYSl6rdGlV5wl7eqqy028yM+VNqvnmhq4J+IaksUdSrtsQ0vw3uwyeeMT+gIEdHOQI9vr6G6lZwWoKteWj/ZmFxBZ4R2JTUz6Dg0FqHWlkHFkhKiFGijgkjDVrSvFhDEVWz73/JXd3Xz+c6lf4cwXHUTXyJN7adfOwbqT+L806DJsiptKYGyUEsoF3YwJs4AAEWPhrigu9GwjKx5+Z1veLkg4mSdMpKI77l5ZLAi1tujlp7kCRDRzoqfxjR/eMaA=="
-    },
-    {
       "key":"tvbsk",
       "name":"TVB云播┃App",
       "type":3,
@@ -171,7 +163,7 @@
       "key":"涂城",
       "name":"涂城┃App",
       "type":0,
-      "api":"http://154.12.90.205/api.php/provide/vod/from/tucheng/at/xml",
+      "api":"http://154.12.81.149/aatucheng/api.php/provide/vod/at/xml",
       "searchable":1,
       "quickSearch":1,
       "filterable":1
