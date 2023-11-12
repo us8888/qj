@@ -347,6 +347,16 @@
       "quickSearch":1,
       "searchable":1,
       "ext":""
+    },
+    {
+      "key":"應用商店",
+      "name":"應用商店",
+      "type":3,
+      "jar":"./jar/custom_spider.jar;md5;18d6103e01c3865caeb7a23e627adb3c",
+      "api":"csp_Market",
+      "searchable":0,
+      "changeable":0,
+      "ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"
     }
     ],
   
