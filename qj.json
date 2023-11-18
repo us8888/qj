@@ -415,8 +415,7 @@
       "name":"ok",
       "type":0,
       "url":"https://okjx.cc/?url="
-      "ext":
-      {
+      "ext":{
         "flag":
         [
           "qq",
