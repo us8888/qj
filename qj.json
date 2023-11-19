@@ -519,7 +519,7 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
-}
+},
 
 "rules":[
   {
@@ -577,4 +577,5 @@
     "hosts":["magnet"],
     "regex":["最 新","直 播","更 新"]
   }
-]
+  ]
+}
