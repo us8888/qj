@@ -454,44 +454,7 @@
         ]
       }
     },
-    {
-      "name":"巧技",
-      "type":1,
-      "url":"https://www.qiaoji8.com/tvbox/json1.php?url=",
-      "ext":{
-        "flag":
-        [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "tucheng-",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
-    }
-  ],
+    
    
 
   "flags":["tucheng-","tucheng","youku","qq","QQ","iqiyi","SPA","qiyi","letv","sohu","YuMi-vip","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","ppayun","haiwaikan","cool","dbm3u8","xmm","xigua","m1905","funshion","imgo","ruyi1080","ruyib1080"],
