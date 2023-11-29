@@ -22,7 +22,7 @@
     {"key":"Dygang","name":"电影港[边下边播]","type":3,"api":"csp_Dygang"},
     {"key":"蚂蚁","name":"蚂蚁┃App","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},
     {"key":"看看","name":"看看┃App","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"玩偶哥哥","name":"玩偶┃弹幕","type":3,"jar":"./jar/pg.jar;md5;2f50451404dcc7e07f99c7aff21028a8,"api":"./wogg.josn","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+    {"key":"玩偶哥哥","name":"玩偶┃弹幕","type":3,"jar":"./jar/pg.jar;md5;2f50451404dcc7e07f99c7aff21028a8,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
     {"key":"Lib","name":"Lib┃直连","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.libvio.pro/static/js/playerconfig.js"},
     {"key":"时常","name":"时常┃直连","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"playerType":2,"filterable":0,"ext":""},
     {"key":"Bdys_spider","name":"哔滴┃直连","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
