@@ -5,6 +5,7 @@
   "sites":
   [
     {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
+    {"key":"t4","name":"测试┃App","type":4,"api":"http://t4.qiaoji8.com/vod?site=3a29eb005d0cd96c","searchable":1,"quickSearch":1,"playerType":2,"filterable":1},
     {"key":"蝴蝶","name":"蝴蝶┃App","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"},
     {"key":"tvbsk","name":"TVB云播┃App","type":3,"api":"csp_Skapp","playerType":2,"ext":"CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w=="},
     {"key":"极光","name":"极光┃App","type":3,"api":"csp_Skapp","playerType":2,"ext":"NMDov8r4lyPi7o1tN25TtmgTsPlPHtHeRBRxZF4SKC8s5AHOmzhIY2iaZp8AxN0ZxJLO2OgtpgVQOfPpyTwzhwGg1yPdF3l7po7LkV1USxsJkRrw5ScjMqB5XGCbiPf2uuQpnZygmOyUtfqizMhiUWlYx20EQgGkKAgCPVZdWubFqKEfck+NqasxhuSRqQlAc1gXsWuH9qbYAnTkrEmINI84K7nA+FGf8e7yWhG3xyLvCvjLLaWkY5y8F13L9R0Ikk0jHczLLsPrYB2UNu+hEfODuWc+YmBjFsi9PMeua+EHGpTt80+qeeNbRYEIoGDYCwqOJxXRoS3dJ7wMEryo2kA=="},
