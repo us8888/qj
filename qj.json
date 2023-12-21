@@ -2,7 +2,7 @@
   "spider":"./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[
-    {"name":edemtv","type":0,"url":"https://ilook.epg.one/ZFRMMY6UWRFLTT","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ua":"VasCreativePlayer/02.12.0183 (Linux;Android 5.1.1) ExoPlayerLib/2.0.0","boot":fals},
+    {"name":"edemtv","type":0,"url":"https://ilook.epg.one/ZFRMMY6UWRFLTT","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","ua":"VasCreativePlayer/02.12.0183 (Linux;Android 5.1.1) ExoPlayerLib/2.0.0","boot":fals},
     {"name":"范明明•ipv6","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":
   [
