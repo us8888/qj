@@ -3,7 +3,7 @@
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[
     {"name":"范明明•ipv6","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"ipv4","type":0,"url":"https://gyssi.link/iptv/chinaiptv/%E6%B2%B3%E5%8D%97.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+    {"name":"ipv4","type":0,"url":"http://ys-i.ysepan.com/625694148/714165199/k76365J2T85N3JRkifcxw5a/hn.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":
   [
     {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
