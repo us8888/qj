@@ -2,7 +2,7 @@
   "spider":"./jar/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[
-    {"name":"范明明•ipv6","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+    {"name":"范明明•ipv6","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
     {"name":"ipv4","type":0,"url":"https://gyssi.link/iptv/chinaiptv/%E6%B2%B3%E5%8D%97.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":
   [
