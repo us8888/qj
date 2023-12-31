@@ -3,8 +3,7 @@
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[
     {"name":"范明明•ipv6","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"ipv4","type":0,"url":"http://ys-i.ysepan.com/625694148/714165199/k76365J2T85N3JRkifcxw5a/hn.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"央视频","type":0,"url":"http://www.mhq10086.work.gd/ysp.m3u","playerType":1,"ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+    {"name":"ipv4","type":0,"url":"http://ys-i.ysepan.com/625694148/714165199/k76365J2T85N3JRkifcxw5a/hn.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "sites":
   [
     {"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
